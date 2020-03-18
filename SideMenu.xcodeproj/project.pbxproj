@@ -14,6 +14,7 @@
 		ED0FC8902421C2F5005A26AD /* ContainerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0FC88F2421C2F5005A26AD /* ContainerController.swift */; };
 		ED0FC8922421C304005A26AD /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0FC8912421C304005A26AD /* HomeController.swift */; };
 		ED0FC8942421C313005A26AD /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0FC8932421C313005A26AD /* MenuController.swift */; };
+		ED0FC8962421D1C5005A26AD /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0FC8952421D1C5005A26AD /* Protocols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		ED0FC88F2421C2F5005A26AD /* ContainerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerController.swift; sourceTree = "<group>"; };
 		ED0FC8912421C304005A26AD /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		ED0FC8932421C313005A26AD /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		ED0FC8952421D1C5005A26AD /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		ED0FC88E2421C2B7005A26AD /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				ED0FC8952421D1C5005A26AD /* Protocols.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				ED0FC8782421C297005A26AD /* AppDelegate.swift in Sources */,
 				ED0FC87A2421C297005A26AD /* SceneDelegate.swift in Sources */,
 				ED0FC8902421C2F5005A26AD /* ContainerController.swift in Sources */,
+				ED0FC8962421D1C5005A26AD /* Protocols.swift in Sources */,
 				ED0FC8942421C313005A26AD /* MenuController.swift in Sources */,
 				ED0FC8922421C304005A26AD /* HomeController.swift in Sources */,
 			);
